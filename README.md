@@ -67,7 +67,7 @@ Objetivo: Desenvolver uma solução analítica end-to-end para estimar placares 
   - **Estrutura escalável para novas métricas, temporadas e modelos**
 
 
-⚠️ Limitações do Projeto
+### Limitações do Projeto
 
 * **Dependência da atualização das APIs:**
     - As APIs utilizadas não possuem documentação oficial sobre a frequência de atualização dos dados.
