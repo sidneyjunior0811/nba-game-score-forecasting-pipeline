@@ -1,7 +1,7 @@
 # nba-game-score-forecasting-pipeline
 end-to-end data pipeline for forecasting NBA game scores using historical data, automated ingestion, and season-phase modeling
 
-Objetivo: É fazer a previsão de placar dos jogos que vão acontecer.
+Objetivo: Desenvolver uma solução analítica end-to-end para prever os placares dos jogos futuros da NBA, integrando dados de múltiplas fontes, realizando tratamento e análise estatística, e disponibilizando os resultados em um dashboard interativo.
 
 1️⃣ Fontes de Dados (Data Sources)
 
