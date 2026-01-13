@@ -1,7 +1,7 @@
 # nba-game-score-forecasting-pipeline
 end-to-end data pipeline for forecasting NBA game scores using historical data, automated ingestion, and season-phase modeling
 
-Objetivo: Desenvolver uma solução analítica end-to-end para estimar placares esperados e padrões de pontuação de jogos futuros da NBA, integrando dados de múltiplas fontes, realizando tratamento e análise estatística, e disponibilizando os resultados em um dashboard interativo.
+**Objetivo:** Desenvolver uma solução analítica end-to-end para estimar placares esperados e padrões de pontuação de jogos futuros da NBA, integrando dados de múltiplas fontes, realizando tratamento e análise estatística, e disponibilizando os resultados em um dashboard interativo.
 
 ### **Fluxo do Projeto:**
   **Fontes de Dados --> Armazenamento e Tratamento de Dados --> Análise e Modelagem --> Visualização e Entrega**
