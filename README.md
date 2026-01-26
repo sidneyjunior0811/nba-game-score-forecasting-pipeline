@@ -81,4 +81,9 @@ end-to-end data pipeline for forecasting NBA game scores using historical data, 
     - Iniciar às 19h
     - Executar atualizações a cada 30 minutos
 
+
+  🎥 Veja o vídeo de demonstração completo aqui:
+
+👉 https://youtu.be/zKqQdh3dk2o
+
 **Essa abordagem garante maior sincronização com os horários das partidas e melhora a confiabilidade das informações exibidas**
